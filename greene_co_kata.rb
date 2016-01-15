@@ -50,11 +50,11 @@
     arr = []
    
     case
-      when (greene and county) then 
+      when (greene and county) 
         arr << 'GreeneCounty'
-      when greene then
+      when greene 
         arr <<  'Greene'
-      when county then 
+      when county 
         arr <<'County'
       else 
         arr << input_number
