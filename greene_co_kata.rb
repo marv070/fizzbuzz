@@ -1,4 +1,4 @@
-class Fizz
+class Fizz####
 
   def fizz_buzz(num)
     arr = []
